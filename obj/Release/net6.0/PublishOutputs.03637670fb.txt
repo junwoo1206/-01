@@ -1,0 +1,7 @@
+C:\app1206\bin\Release\net6.0\publish\app1206.exe
+C:\app1206\bin\Release\net6.0\publish\appsettings.Development.json
+C:\app1206\bin\Release\net6.0\publish\appsettings.json
+C:\app1206\bin\Release\net6.0\publish\app1206.dll
+C:\app1206\bin\Release\net6.0\publish\app1206.deps.json
+C:\app1206\bin\Release\net6.0\publish\app1206.runtimeconfig.json
+C:\app1206\bin\Release\net6.0\publish\app1206.pdb
